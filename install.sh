@@ -125,7 +125,7 @@ REPLACE="
 print_modname() {
   ui_print " "
   ui_print "    *******************************************"
-  ui_print "    *      Bitrate increase for OP3 & OP3t    *"
+  ui_print "    *      Bitrate MOD for OP3 & OP3t    *"
   ui_print "    *******************************************"
   ui_print "    *            by Federicokalik             *"
   ui_print "    *******************************************"
